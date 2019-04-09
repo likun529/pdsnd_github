@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Design a interact program that analyze the bikeshare data in 3 cities in USA
 
 ### Files used
 Include the files used
