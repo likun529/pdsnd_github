@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
-city_list = ["chicago", "new york city", "washington"]
+city_list = ["chicago", "new york city", "washington"] #add cities#
 
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
