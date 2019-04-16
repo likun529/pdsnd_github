@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 Bikeshare Project
 
 ### Description
-Design a interact program that analyze the bikeshare data in 3 cities in USA
+Design a interact program that analyze the bikeshare data in 3 cities in USA with Python code
 
 ### Files used
 Include the files used
